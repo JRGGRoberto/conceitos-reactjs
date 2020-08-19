@@ -2,6 +2,7 @@
 Desafio 03: Conceitos do ReactJS
 
 É necessário rodar o comando `yarn start`
+<pre>
 
 yarn test 
 yarn run v1.22.4
@@ -18,6 +19,8 @@ Time:        4.89s
 Ran all test suites.
 ✨  Done in 7.92s.
 
+
+</pre>
 
 ### Funcionalidades da aplicação
 
@@ -40,9 +43,6 @@ Para esse desafio temos os seguintes testes:
 - **`should be able to add new repository`**: Para que esse teste passe, sua aplicação deve permitir que um repositório seja adicionado ao seu backend e listado no seu frontend dentro de uma `LI`.
 
 - **`should be able to remove repository`**: Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da `LI` do repositório adicionado, o item seja removido da listagem.
-
-## :calendar: Entrega
-
 
 ## :memo: Licença
 
