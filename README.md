@@ -3,6 +3,22 @@ Desafio 03: Conceitos do ReactJS
 
 É necessário rodar o comando `yarn start`
 
+yarn test 
+yarn run v1.22.4
+$ react-scripts test --watchAll=false
+ PASS  src/__tests__/App.test.js
+  App component
+    ✓ should be able to add new repository (75ms)
+    ✓ should be able to remove repository (11ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       2 passed, 2 total
+Snapshots:   0 total
+Time:        4.89s
+Ran all test suites.
+✨  Done in 7.92s.
+
+
 ### Funcionalidades da aplicação
 
 Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo **src/App.js**, e completar onde não possui código com o código para atingir os objetivos de cada funcionalidade.
